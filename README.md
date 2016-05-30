@@ -1,2 +1,2 @@
 # ParallelProgramming
-Degree project for the subject Operative Systems
+Degree project for the subject Operating Systems
